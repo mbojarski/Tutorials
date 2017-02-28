@@ -7,6 +7,7 @@ Content:
 * adversarial - demonstrate GAN on mnist
 * autoencoder - demonstrate autoencoders on mnist
 * classification - demonstrate classification on mnist
+* regression - demonstrate simple regression (runs on CPU)
 
 Each tutorial folder contains:
 * doall.lua - main script, which executes other files
